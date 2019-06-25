@@ -1,9 +1,9 @@
-ËµÃ÷£º
+è¯´æ˜ï¼š
 
-1.²ÄÁÏ---readfile.py(ÊµÏÖ·½·¨)£¬antiword(windowsÏÂÊ¹ÓÃ)£¬antiword-0.37.tar.gz(linuxÏÂÊ¹ÓÃ)£¬
+1.ææ–™---readfile.py(å®ç°æ–¹æ³•)ï¼Œantiword(windowsä¸‹ä½¿ç”¨)ï¼Œantiword-0.37.tar.gz(linuxä¸‹ä½¿ç”¨)ï¼Œ
 
-         requirements.txt(µ¼ÈëÄ£¿é)£¬²âÊÔÎÄ¼ş¡£
+         requirements.txt(å¯¼å…¥æ¨¡å—)ã€‚
 
-2.²âÊÔ---windows£º½«readfile.pyºÍantiword(windows)ÎÄ¼ş¼Ğ·ÅÔÚÍ¬Ò»Ä¿Â¼ÏÂ,°²×°ËùĞèµÄÄ£¿éºó¿É²âÊÔ¡£
+2.æµ‹è¯•---windowsï¼šå°†readfile.pyå’Œantiword(windows)æ–‡ä»¶å¤¹æ”¾åœ¨åŒä¸€ç›®å½•ä¸‹,å®‰è£…æ‰€éœ€çš„æ¨¡å—åå¯æµ‹è¯•ã€‚
 
-         linux£ºĞè±àÒë°²×°antiword-0.37.tar.gz£¬×¢ÒâÂ·¾¶ºÍÈ¨ÏŞ£¬ĞŞ¸Äreadfile.pyÖĞantiwordµÄÂ·¾¶¡£
+         linuxï¼šéœ€ç¼–è¯‘å®‰è£…antiword-0.37.tar.gzï¼Œæ³¨æ„è·¯å¾„å’Œæƒé™ï¼Œä¿®æ”¹readfile.pyä¸­antiwordçš„è·¯å¾„ã€‚
