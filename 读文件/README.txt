@@ -1,6 +1,8 @@
 说明：
 
-1.功能---实现对各种编码格式的txt文件、.doc文件以及.docx文件的读取。
+1.功能---实现对各种编码格式的txt文件、.doc文件以及.docx文件的读取。注意：读取.docx文件只写了关于文本段落的部分，若想读取文件中表格内容，请自行查阅  
+
+         pyhton-docx用法。
 
 2.材料---readfile.py(实现方法)，antiword(windows下使用)，antiword-0.37.tar.gz(linux下使用)，
 
